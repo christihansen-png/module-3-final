@@ -70,7 +70,7 @@ li {
   background-color: rgba(red, green, blue, alpha);
 }
 
-header {
+.header {
   height: calc(100vh - 80px);
 }
 
@@ -152,4 +152,6 @@ HIGHLIGHTS
   justify-content: center;
   flex-direction: column;
 }
+
+
 
